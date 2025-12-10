@@ -1,0 +1,12 @@
+# Virtual Environments (BLOCK THESE)
+valuesml/
+hfenv/
+venv/
+Program file/valuesml/
+data preprocessing/hfenv/
+
+# Large Files
+*.dylib
+*.so
+__pycache__/
+.DS_Store

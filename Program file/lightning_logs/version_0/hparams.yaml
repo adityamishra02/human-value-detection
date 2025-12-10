@@ -1,0 +1,4 @@
+freeze_backbone: false
+lr: 2.0e-05
+model_name: microsoft/deberta-large
+weight_decay: 0.01

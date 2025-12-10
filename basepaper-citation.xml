@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Hierocles of alexandria at touché: multi-task &amp; multi-head custom architecture with transformer-based models for human value detection</b:Title>
+        <b:Tag>Legkas2024</b:Tag>
+        <b:BookTitle>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024). CEUR Workshop Proceedings, CEUR-WS. org</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Legkas</b:Last>
+                        <b:First>Sotirios</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Christodoulou</b:Last>
+                        <b:First>Christina</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Zidianakis</b:Last>
+                        <b:First>Matthaios</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Koutrintzes</b:Last>
+                        <b:First>Dimitrios</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Petasis</b:Last>
+                        <b:First>G.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dagioglou</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024). CEUR Workshop Proceedings, CEUR-WS. org</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Arthur schopenhauer at touché 2024: multi-lingual text classification using ensembles of large language models</b:Title>
+        <b:Tag>Yunis2024</b:Tag>
+        <b:BookTitle>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024). CEUR Workshop Proceedings, CEUR-WS. org</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Yunis</b:Last>
+                        <b:First>Hamza</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2024). CEUR Workshop Proceedings, CEUR-WS. org</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Eric Fromm at Touché: Prompts vs FineTuning for Human Value Detection</b:Title>
+        <b:Tag>Mishra2024</b:Tag>
+        <b:BookTitle>25th Working Notes of the Conference and Labs of the Evaluation Forum, CLEF 2024</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Mishra</b:Last>
+                        <b:First>Ranjan</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Morren</b:Last>
+                        <b:First>Meike</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>3433–3446</b:Pages>
+        <b:ConferenceName>25th Working Notes of the Conference and Labs of the Evaluation Forum, CLEF 2024</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2024</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>SCaLAR NITK at Touché: Comparative Analysis of Machine Learning Models for Human Value Identification.</b:Title>
+        <b:Tag>Praveen2024</b:Tag>
+        <b:BookTitle>CLEF (Working Notes)</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Praveen</b:Last>
+                        <b:First>K.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Darshan</b:Last>
+                        <b:Middle>K.</b:Middle>
+                        <b:First>R.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Reddy</b:Last>
+                        <b:Middle>Tejdeep</b:Middle>
+                        <b:First>Chinta</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Anand Kumar</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>3407–3413</b:Pages>
+        <b:ConferenceName>CLEF (Working Notes)</b:ConferenceName>
+    </b:Source>
+</b:Sources>

@@ -1,0 +1,13 @@
+# Install PyTorch separately for macOS before installing these.
+# For Apple Silicon (M1/M2/M3):
+#   pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0 --index-url https://download.pytorch.org/whl/cpu
+# For Intel Mac:
+#   pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0
+
+pytorch-lightning==1.9.5
+transformers==4.40.1
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.4
+joblib==1.3.2
